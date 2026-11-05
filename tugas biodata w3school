@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><title>Latihan 2</title></head>
+<body>
+
+<h1>Biodataku</h1>
+<hr>
+<table border="0">
+<tr> <!-- ini baris pertama -->
+	<td>Nama</td>
+	<td>:</td>
+	<td>khoirun nisah</td>
+</tr>
+
+<tr>
+	<td>Alamat</td>
+	<td>:</td>
+	<td><i>Lajuk - bengok utara</i></td> 
+
+<tr>
+	<td>No Wa</td>
+	<td>:</td>
+	<td><u>08133184657</u></td>
+</tr>
+
+<tr>
+	<td>Tinggi Badan </td>
+	<td>:</td>
+	<td>153<sub>cm</sub></td>
+</tr>
+
+<tr>
+	<td>Suhu Badan </td>
+	<td>:</td>
+	<td>26<sup>o</sup></td>
+</tr>
+
+<tr>
+	<td>Sosial Media</td>
+	<td>:</td>
+	<td><a href="https://facebook.com/drnyobi">Link Facebook</a></td>
+</tr>
+
+<tr>
+	<td>Foto </td>
+	<td>: </td>
+	<td><img src="https://semarsoft.com/wp-content/uploads/2026/08/Redmi-atau-Realme-terbaik-dengan-harga-2-jutaan_1.jpg" alt="ini fotoku" width="50%"></td>
+</tr>
+
+<tr>
+	<td>Daftar Keluarga</td>
+	<td>:</td>
+	<td>
+	  <ol>
+    		<li>Ayah 	 : jamiul khoiri </li>
+    		<li>Ibu  	 : isa</li>
+    		
+    		<li>Saudara  : ahmad syarif hidayatullah </li>
+	 </ol>
+	</td>
+</tr>
+
+
+</table>
+
+
+</body>
+</html>
